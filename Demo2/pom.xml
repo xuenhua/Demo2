@@ -3,6 +3,10 @@
   <artifactId>xu.Demo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
+  <properties>
+	<project.build.sourceEncoding>UTF8</project.build.sourceEncoding>
+	<maven.compiler.encoding>UTF8</maven.compiler.encoding>
+  </properties>
   <dependencies>
   
   
